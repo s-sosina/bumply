@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+sqlalchemy
+alembic
+asyncpg>=0.29.0
+redis
+pytest
+httpx2
